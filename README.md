@@ -21,7 +21,7 @@ Planned integration with **Power BI** for real-time visualization.
 - **Database:** SQL Server, PostgreSQL  
 - **ORM:** Entity Framework Core  
 - **Logging:** Serilog + Seq  
-- **Testing:** xUnit / NUnit (if included)  
+- **Testing:** xUnit & Moq
 - **Visualization (Coming Soon):** Power BI dashboards  
 
 ---
